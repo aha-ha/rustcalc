@@ -4,7 +4,7 @@ A simple command-line calculator built in Rust.
 * Enter a calculation to get the result.
 * That's it. It's a calculator.
 ## Installation
-#### Prebuilt Binaries (Linux, Windows)
+#### Prebuilt Binaries (Linux, Windows, macOS)
 * Go to [Releases](https://github.com/aha-ha/rustcalc/releases) and download the binary for your OS.
 * Open a terminal in the same directory as the file and run
 ```bash
@@ -13,6 +13,9 @@ A simple command-line calculator built in Rust.
 
 # Windows
 .\rustcalc_win.exe
+
+#macOS
+./rustcalc_osx
 ```
 #### Build it from source (Linux, Windows, MacOS)
 ```bash
